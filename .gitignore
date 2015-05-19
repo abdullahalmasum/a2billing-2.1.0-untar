@@ -1,0 +1,7 @@
+*.pyc
+*dilla*
+*.db
+*nbproject*
+*devserver*
+*sublime*
+*~
